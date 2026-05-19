@@ -51,3 +51,6 @@ Add it to your crontab:
 ```bash
 * * * * * /var/prtg/scriptsxml/ha-usage.sh  > /dev/null 2>&1
 ```
+
+## Result
+<img width="1965" height="803" alt="monitor-linux-02" src="https://github.com/user-attachments/assets/b2499789-f812-4ba2-bd5a-c5b82bf6716f" />
