@@ -1,5 +1,6 @@
 # Linux usage monitoring with PRTG Push sensor
 Monitoring Linux usage (CPU, Memory, Disk Usage, Uptime) with HTTP Push Data Advanced PRTG Sensor.
+
 It's cheaper on the sensor cost.
 
 ## Tested on
